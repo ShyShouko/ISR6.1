@@ -3,6 +3,7 @@ class Main{
         System.out.print("Это добавлено в ветке main");
         System.out.println("First commit");
         System.out.println("Second commit");
+        System.out.println("Third commit");
 
     }
 }
