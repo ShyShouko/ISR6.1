@@ -5,6 +5,14 @@ class Main{
         System.out.println("Second commit");
         System.out.println("Third commit");
         System.out.println("Fourth commit");
+        System.out.print("Это добавлено в ветке dev");
+        System.out.print("First update dev");
+        System.out.print("Second update dev");
+        System.out.print("Third update dev");
+        System.out.print("Fourth update dev");
+
+
+
 
     }
 }
